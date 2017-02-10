@@ -1,6 +1,5 @@
 applications:
 - name: go-env  
-  host: go-env
   #buildpack: https://github.com/cloudfoundry/go-buildpack#v1.7.2
   disk_quota: 10M
   memory: 32M  
