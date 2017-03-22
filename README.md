@@ -8,3 +8,5 @@ instance the app is running on.
 # Deploy to HPE Helion Stackato
 
     cf push
+
+testtsettset
