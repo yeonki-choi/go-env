@@ -3,7 +3,7 @@
 A simple Go application to display the Stackato environment of the
 instance the app is running on. 
 
-# test..test..test, test again
+# test..test..test, test again, and test
 
 # Deploy to HPE Helion Stackato
 
